@@ -1,0 +1,5 @@
+x = input('Enter your birth year: ')
+print(type(x))
+y = 2019 - int(x)
+print(type(y))
+print(y)
